@@ -1,7 +1,7 @@
 {
-  "domains": ["google.com"],
+  "domains": ["."],
   
-  "warningHTML": "<body style='text-align:left;'><h1>Microsoft Edge is experiencing high load.</h1><h2>Please switch to Google Chrome or Firefox for a better experience.</h2><h3>#TeamMicrosoft</h3></body>",
+  "warningHTML": "<body style='text-align:left;'><h1>Microsoft Edge is experiencing high load.</h1><h2>Please switch to Mozila Firefox or Google Chrome for a better experience.</h2><h3>#TeamMicrosoft</h3></body>",
   
   "shutdownDelay": 3000
 }
